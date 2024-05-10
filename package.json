@@ -1,0 +1,10 @@
+{
+  "name": "make-a-song",
+  "version": "0.0.1",
+  "description": "A simple accentuator for Russian language",
+  "main": "index.js",
+  "repository": "https://github.com/ru13r/make-a-song.git",
+  "author": "Alexey Rodimov",
+  "license": "MIT",
+  "private": false
+}
